@@ -33,48 +33,7 @@ Not an emulator.
 Not a productivity tool.  
 Just a small machine for good old internet memories.
 
----
-
-## Features
-
-- BIOS-style boot sequence
-- Windows 98-inspired desktop
-- Pixel windows and taskbar
-- Internet Explorer / Netscape-style browsing
-- Old web pages powered by the Internet Archive
-- Winamp-inspired music player
-- Retro games
-- Shutdown / restart flow
-- Mobile-friendly browser desktop
-- Pure nostalgia, no dial-up required
-
----
-
-## Status
-
-Floppyy is currently in development.
-
-The first public version is focused on:
-
-- desktop experience
-- browser windows
-- retro apps
-- games
-- mobile support
-- small nostalgic details everywhere
-
----
 
 ## Built for fun
 
-Floppyy is a personal nostalgia project inspired by first computers, old web portals, floppy disks, slow boot screens, pixel icons, and the feeling that every folder could hide something interesting.
-
-Boot it.  
-Click around.  
-Remember the old web.
-
----
-
-<p align="center">
-  <strong>Floppyy — The web you grew up on.</strong>
-</p>
+Floppyy is a personal nostalgia project inspired by first computers, old web portals, floppy disks, boot screen, pixel icons and the feeling that every folder could hide something interesting.
